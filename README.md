@@ -8,5 +8,6 @@ analysis, and writing long-form content.
 - 🔧 **Currently:** exploring AI training, prompt engineering, and applied data analysis
 - 📊 **Featured project:** [Marketing ROI Regression Analysis](https://github.com/Jericho301/marketing-roi-regression-analysis) — identifying the highest-ROI marketing channel using OLS regression
 - 🌤️ Also built a lightweight [live weather agent](https://github.com/Jericho301/SmallscaleWeather)
+Active contributor to NovaGrids/VaultDAO — merged PRs adding SDK reliability features (rate-limit retries, fee estimation, CI typechecking).
 - ✍️ I also write long-form fiction — check out *Hollow Dominion* on Royal Road
 - 📫 Reach me at samuelakpan318@gmail.com
