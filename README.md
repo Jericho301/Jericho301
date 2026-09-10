@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, I'm Samuel 👋
 
-<!--
-**Jericho301/Jericho301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineering graduate blending software with hands-on technical 
+writing and analysis. I work at the intersection of data, AI, and clear 
+communication — training and evaluating AI systems, running statistical 
+analysis, and writing long-form content.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Currently:** exploring AI training, prompt engineering, and applied data analysis
+- 📊 **Featured project:** [Marketing ROI Regression Analysis](https://github.com/Jericho301/marketing-roi-regression-analysis) — identifying the highest-ROI marketing channel using OLS regression
+- 🌤️ Also built a lightweight [live weather agent](https://github.com/Jericho301/SmallscaleWeather)
+- ✍️ I also write long-form fiction — check out *Hollow Dominion* on Royal Road
+- 📫 Reach me at samuelakpan318@gmail.com
